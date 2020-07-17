@@ -5,7 +5,7 @@ This project was created when I was in the 4th year of study in university.
 
 ### Team
 
-- Naraphat Sanujit - software dev
-- Boy Dasri - hardware dev
+- Naraphat Sanujit - software developer
+- Boy Dasri - hardware developer
 
 <img src="/project.jpg" alt="project" width="500">
